@@ -2,42 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://njitgsa.github.io/blog</id>
     <title>NJIT GSA Community (2.0) Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-08-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://njitgsa.github.io/blog"/>
     <subtitle>NJIT GSA Community (2.0) Blog</subtitle>
     <icon>https://njitgsa.github.io/img/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://njitgsa.github.io/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
+        <title type="html"><![CDATA[Eberhardt Hall]]></title>
+        <id>eberhardt-hall</id>
+        <link href="https://njitgsa.github.io/blog/eberhardt-hall"/>
+        <updated>2021-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello NJITians,]]></summary>
         <author>
-            <name>Yangshun Tay</name>
-            <uri>https://github.com/yangshun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://njitgsa.github.io/blog/hello-world"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
-        <author>
-            <name>Endilie Yacop Sucipto</name>
-            <uri>https://github.com/endiliey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://njitgsa.github.io/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Ludvik Alkhoury</name>
         </author>
     </entry>
 </feed>

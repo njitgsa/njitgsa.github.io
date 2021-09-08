@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknjit_gsa=self.webpackChunknjit_gsa||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Eberhardt Hall","permalink":"/blog/eberhardt-hall"}]}')}}]);

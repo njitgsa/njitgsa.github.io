@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknjit_gsa=self.webpackChunknjit_gsa||[]).push([[7903],{9813:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/history","name":"history","count":1,"permalink":"/blog/tags/history"}')}}]);
